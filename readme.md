@@ -3,8 +3,9 @@
 
 - 나이 : 24
 
-- 소속사 : [링크1][1]
-[1]:https://www.jype.com
+- 소속사 : <www.jype.com>
+[링크1][1]
+[1] :www.jype.com
 
 - 고향 : 전라도 광주 광역시
 
