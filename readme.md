@@ -6,7 +6,7 @@
 - 소속사 : <www.jype.com>
 [링크1][1]
 
-[1] :www.jype.com
+[1]:www.jype.com
 
 - 고향 : 전라도 광주 광역시
 
